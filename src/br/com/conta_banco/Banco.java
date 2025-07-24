@@ -2,7 +2,6 @@ package br.com.conta_banco;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Scanner;
 
 public class Banco {
     // Atributos
